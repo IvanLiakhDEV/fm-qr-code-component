@@ -1,0 +1,2 @@
+Simple qr-code component 
+
